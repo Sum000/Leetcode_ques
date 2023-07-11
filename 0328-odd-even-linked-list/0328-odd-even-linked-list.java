@@ -10,6 +10,13 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+        
+        if (head == null)
+            return null;
+        
+        if (head.next == null)
+            return head;
+        
         ListNode odd = new ListNode(0);
         ListNode even = new ListNode(0);
         
