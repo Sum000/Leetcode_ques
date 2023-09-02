@@ -1,22 +1,12 @@
 class Solution:
     def minimumReplacement(self, nums: List[int]) -> int:
-        op = 0
-        n = len(nums)
-        
-        for i in range(n - 2, -1, -1):
+        operations = 0
+        prev_bound = nums[-1]
+
+        for num in reversed(nums[:-1]):
+            no_of_times = (num + prev_bound - 1) // prev_bound
+            operations += no_of_times - 1
+            prev_bound = num // no_of_times
             
-            if nums[i] <= nums[i + 1]:
-                continue
-                
-            num_elements = (nums[i] + nums[i + 1] - 1) // nums[i + 1]
-            
-            op += num_elements - 1
-            
-            nums[i] = nums[i] // num_elements
-            
-            
-        return op
-                
-        
-      
+        return operations
         
