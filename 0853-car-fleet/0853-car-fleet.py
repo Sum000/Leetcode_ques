@@ -5,7 +5,8 @@ class Solution:
         stack = []
         
         for p, s in sorted(pair)[::-1]:
-            stack.append((target - p) / s)
+            time = (target - p) / s
+            stack.append(time)
             if len(stack) > 1 and stack[-1] <= stack[-2]:
                 stack.pop()
                 
