@@ -7,12 +7,12 @@ class Solution:
         n = len(operations)
         
         for i in range(1, n):
-            if operations[i] == "+":
-                stack.append(stack[-1] + stack[-2])
+            if operations[i] == "C":
+                stack.pop()
             elif operations[i] == "D":
                 stack.append(2 * stack[-1])    
-            elif operations[i] == "C":
-                stack.pop()     
+            elif operations[i] == "+":
+                stack.append(stack[-1] + stack[-2])   
             else:
                 stack.append(int(operations[i]))
         
