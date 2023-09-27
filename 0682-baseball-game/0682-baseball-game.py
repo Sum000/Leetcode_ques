@@ -15,18 +15,13 @@ class Solution:
                 stack.append(new_score)
                 
             elif operations[i] == "C":
-                if stack:
-                    stack.pop()
+                stack.pop()
                     
             else:
                 stack.append(int(operations[i]))
-                
-        sum = 0
         
-        for num in stack:
-            sum += num
             
-        return sum
+        return sum(stack)
             
             
         
