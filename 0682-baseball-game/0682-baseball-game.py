@@ -8,15 +8,11 @@ class Solution:
         
         for i in range(1, n):
             if operations[i] == "+":
-                new_score = stack[-1] + stack[-2]
-                stack.append(new_score)
+                stack.append(stack[-1] + stack[-2])
             elif operations[i] == "D":
-                new_score = 2 * stack[-1]
-                stack.append(new_score)
-                
+                stack.append(2 * stack[-1])    
             elif operations[i] == "C":
-                stack.pop()
-                    
+                stack.pop()     
             else:
                 stack.append(int(operations[i]))
         
