@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        length = len(nums)
+        length = len(nums) - 1
         def helper(l, r):
             if l > r:
                 return None
@@ -17,5 +17,5 @@ class Solution:
             root.right = helper(m + 1, r)
             return root
         
-        return helper(0, length - 1)
+        return helper(0, length)
         
