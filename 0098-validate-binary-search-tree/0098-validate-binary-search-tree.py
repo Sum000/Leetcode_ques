@@ -13,7 +13,9 @@ class Solution:
             if not (node.val > left and node.val < right):
                 return False
             
-            return (valid(node.left, left, node.val) and valid(node.right, node.val, right))
+            left = valid(node.left, left, node.val) 
+            right = valid(node.right, node.val, right)
+            return left and right
         
         return valid(root, float("-inf"), float("inf"))
             
