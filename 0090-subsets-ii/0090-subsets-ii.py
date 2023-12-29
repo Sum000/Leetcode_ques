@@ -3,9 +3,10 @@ class Solution:
         
         res = []
         nums.sort()
+        n = len(nums)
         
         def backtrack(i, subset):
-            if i == len(nums):
+            if i == n:
                 res.append(subset.copy())
                 return 
             
@@ -13,7 +14,7 @@ class Solution:
             backtrack(i + 1, subset)
             subset.pop()
             
-            while i + 1 < len(nums) and nums[i] == nums[i + 1]:
+            while i + 1 < n and nums[i] == nums[i + 1]:
                 i += 1
             
             backtrack(i + 1, subset)
