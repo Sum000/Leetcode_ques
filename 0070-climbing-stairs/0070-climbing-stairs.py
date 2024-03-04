@@ -1,19 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
+        one, two = 1, 1
         
-        dp = {}
-        
-        def backtrack(total):
-            if total >= n:
-                return 1 if total == n else 0
+        for i in range(n - 1):
+            temp = one
+            one = one + two
+            two = temp
             
-            if total in dp:
-                return dp[total]
-            
-            dp[total] = backtrack(total + 1) + backtrack(total + 2)
-            
-            return dp[total]
-        
-        
-        return backtrack(0)
+        return one
         
