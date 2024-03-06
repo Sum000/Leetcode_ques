@@ -3,16 +3,17 @@ class Solution:
         dp = {}
         n = len(nums)
         
-        def backtrack(i, total):
+        def dfs(i, total):
             if i == n:
                 return 1 if total == target else 0
             
             if (i, total) in dp:
                 return dp[(i, total)]
             
-            dp[(i, total)] = (backtrack(i + 1, total + nums[i]) +
-                             backtrack(i + 1, total - nums[i]))
-            
+            dp[(i, total)] = dfs(i + 1, total + nums[i]) +  dfs(i + 1, total - nums[i])
+                            
+                
             return dp[(i, total)]
         
-        return backtrack(0, 0)
+        
+        return dfs(0, 0)
