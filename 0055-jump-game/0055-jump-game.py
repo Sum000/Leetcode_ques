@@ -8,6 +8,4 @@ class Solution:
            
             
         return True if goal == 0 else False
-    
-            
         
