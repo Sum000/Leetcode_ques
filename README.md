@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
