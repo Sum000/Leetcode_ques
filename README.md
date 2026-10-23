@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sum000/Leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sum000/Leetcode_ques/tree/main/0724-find-pivot-index/) | Easy |
 ## Two Pointers
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sum000/Leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sum000/Leetcode_ques/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
