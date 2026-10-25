@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sum000/Leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sum000/Leetcode_ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -61,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
