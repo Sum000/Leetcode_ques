@@ -18,6 +18,7 @@
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sum000/Leetcode_ques/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sum000/Leetcode_ques/tree/main/0724-find-pivot-index/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -74,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 <!---LeetCode Topics End-->
