@@ -26,6 +26,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Sum000/Leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -98,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Sum000/Leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
