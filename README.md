@@ -21,6 +21,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,16 +69,19 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
