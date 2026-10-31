@@ -39,6 +39,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sum000/Leetcode_ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Sum000/Leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sum000/Leetcode_ques/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sum000/Leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
