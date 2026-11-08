@@ -30,6 +30,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Sum000/Leetcode_ques/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Two Pointers
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +137,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sum000/Leetcode_ques/tree/main/0011-container-with-most-water/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
