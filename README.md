@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/Sum000/Leetcode_ques/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Sum000/Leetcode_ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Sum000/Leetcode_ques/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -74,6 +75,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Sorting
@@ -119,6 +121,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sum000/Leetcode_ques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sum000/Leetcode_ques/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Dynamic Programming
@@ -137,6 +140,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sum000/Leetcode_ques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sum000/Leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
