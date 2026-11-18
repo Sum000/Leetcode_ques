@@ -31,6 +31,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Sum000/Leetcode_ques/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -55,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sum000/Leetcode_ques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sum000/Leetcode_ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [0724-find-pivot-index](https://github.com/Sum000/Leetcode_ques/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -132,6 +135,7 @@
 | [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sum000/Leetcode_ques/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
