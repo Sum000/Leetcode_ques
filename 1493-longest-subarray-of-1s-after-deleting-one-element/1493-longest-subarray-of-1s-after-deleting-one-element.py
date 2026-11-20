@@ -26,6 +26,30 @@ class Solution:
 
         # optimal approach
 
+        # l, r = 0, 0
+        # res = 0
+        # count_zero = 0
+
+        # while r < len(nums):
+        #     if nums[r] == 0:
+        #         count_zero += 1
+
+        #     while count_zero > 1:
+        #         if nums[l] == 0:
+        #             count_zero -= 1
+
+        #         l += 1
+
+        #     if count_zero <= 1:
+        #         res = max(res, r - l)
+
+        #     r += 1
+
+        # return res
+
+
+        # most optimal approach
+
         l, r = 0, 0
         res = 0
         count_zero = 0
@@ -46,6 +70,8 @@ class Solution:
             r += 1
 
         return res
+
+        
 
 
 
