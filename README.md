@@ -36,6 +36,7 @@
 | [1109-corporate-flight-bookings](https://github.com/Sum000/Leetcode_ques/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Sum000/Leetcode_ques/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sum000/Leetcode_ques/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -139,11 +140,13 @@
 | [0904-fruit-into-baskets](https://github.com/Sum000/Leetcode_ques/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sum000/Leetcode_ques/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sum000/Leetcode_ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sum000/Leetcode_ques/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sum000/Leetcode_ques/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
