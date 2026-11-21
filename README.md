@@ -87,6 +87,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sum000/Leetcode_ques/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sum000/Leetcode_ques/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sum000/Leetcode_ques/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sum000/Leetcode_ques/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sum000/Leetcode_ques/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sum000/Leetcode_ques/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sum000/Leetcode_ques/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sum000/Leetcode_ques/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sum000/Leetcode_ques/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sum000/Leetcode_ques/tree/main/0567-permutation-in-string/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sum000/Leetcode_ques/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
