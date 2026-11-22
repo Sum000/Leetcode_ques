@@ -158,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sum000/Leetcode_ques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Sum000/Leetcode_ques/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Sum000/Leetcode_ques/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sum000/Leetcode_ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Sum000/Leetcode_ques/tree/main/0392-is-subsequence/) | Easy |
@@ -201,4 +202,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sum000/Leetcode_ques/tree/main/0239-sliding-window-maximum/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sum000/Leetcode_ques/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sum000/Leetcode_ques/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
