@@ -120,6 +120,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Sum000/Leetcode_ques/tree/main/0155-min-stack/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Matrix
@@ -206,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sum000/Leetcode_ques/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Sum000/Leetcode_ques/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
