@@ -24,6 +24,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sum000/Leetcode_ques/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sum000/Leetcode_ques/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Sum000/Leetcode_ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sum000/Leetcode_ques/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Sum000/Leetcode_ques/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sum000/Leetcode_ques/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -215,6 +216,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sum000/Leetcode_ques/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Sum000/Leetcode_ques/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Sum000/Leetcode_ques/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Sum000/Leetcode_ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sum000/Leetcode_ques/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -224,5 +226,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sum000/Leetcode_ques/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Sum000/Leetcode_ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sum000/Leetcode_ques/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
