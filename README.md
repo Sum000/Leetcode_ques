@@ -130,6 +130,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Sum000/Leetcode_ques/tree/main/0155-min-stack/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sum000/Leetcode_ques/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0901-online-stock-span](https://github.com/Sum000/Leetcode_ques/tree/main/0901-online-stock-span/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/Sum000/Leetcode_ques/tree/main/0901-online-stock-span/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sum000/Leetcode_ques/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sum000/Leetcode_ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sum000/Leetcode_ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Sum000/Leetcode_ques/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/Sum000/Leetcode_ques/tree/main/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +235,5 @@
 | [0503-next-greater-element-ii](https://github.com/Sum000/Leetcode_ques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sum000/Leetcode_ques/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Sum000/Leetcode_ques/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/Sum000/Leetcode_ques/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
